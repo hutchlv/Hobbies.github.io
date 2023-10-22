@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - A Pen by hutchlv</title>
+  <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<div id="container">
+  <div id="content">
+    <div id="about">
+      <h1>
+        <div style='float:left; margin-bottom:20px;'>
+          Michael Hutchinson
+        </div>
+        <div class="stage">
+          
+            <div class="triangle side1"></div>
+            <div class="triangle side2"></div>
+            <div class="triangle side3"></div>
+            <div class="triangle side4"></div>
+          </div>
+        </div> 
+      </h1>
+      <h3 style='clear:both' class="subhead">
+        <a href="https://plus.google.com/108495471566196018473/posts">I have many Hobbies</a> Most of my hobbies have to do with sports, i really enjoy the media aspect when it comes to creating video or capturing still images.
+      </h3>
+      <p id='pleft'>
+Another hobbie of mine is music,</a> lots of people is wierd when i dont watch alot of tv shows or movies, but the truth is Music just speaks to me.
+      </p>
+      <p id='pright'>
+        Sports have had a huge impact on my life weather its Football Baseball and now even hockey. Sports growing up were just so fun to play in my early childhood and til this day my life revolves around sports.
+      </p>
+      <ul>
+<!-- partial -->
+  
+</body>
+</html>
